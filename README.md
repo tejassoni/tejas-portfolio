@@ -1,6 +1,3 @@
-<p align="center" width="100%">
-    <img height="100" src="https://github.com/said7388/developer-portfolio/assets/77630868/c0064908-cd5f-4751-a77c-eba90a62b55c">
-</p>
 
 # Developer Portfolio
 
@@ -10,9 +7,9 @@
 
 # Demo :movie_camera:
 
-![](./public/image/screen.png)
+![](./public/image/screen1.png)
 
-## View live preview [here](https://abusaid.netlify.app/).
+## View live preview [here](https://google.com.
 
 ---
 
@@ -100,7 +97,7 @@ NEXT_PUBLIC_EMAILJS_TEMPLATE_ID =
 NEXT_PUBLIC_EMAILJS_PUBLIC_KEY =
 ```
 
-### Then, Customize data in the `utils/data` [folder](https://github.com/said7388/developer-portfolio/tree/main/utils/data).
+### Then, Customize data in the `utils/data` [folder](https://github.com/tejassoni/tejas-portfolio/tree/main/utils/data).
 
 Eg:
 
