@@ -36,7 +36,7 @@ function ContactSection() {
                 size={36}
               />
               <span>
-              <a href="http://wa.me/919662768548?text=Hi%20from%20GitHub%20Profile" target='_blank'>{personalData.phone}</a>
+              <a href="http://wa.me/919662768548?text=Hi%20from%20GitHub%20Profile  " target='_blank'>{personalData.phone}</a>
               </span>
             </p>
             <p className="text-sm md:text-xl flex items-center gap-3">
