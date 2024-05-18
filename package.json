@@ -1,10 +1,13 @@
 {
+  "homepage": "https://tejassoni.github.io/tejas-portfolio",
   "name": "developer-portfolio",
   "description": "Portfolio of Abu Said",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "predeploy" : "npm run build",
+    "deploy" : "gh-pages -d build",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
@@ -27,6 +30,7 @@
     "autoprefixer": "latest",
     "eslint": "latest",
     "eslint-config-next": "latest",
+    "gh-pages": "^6.1.1",
     "postcss": "latest",
     "sass": "^1.69.5",
     "tailwindcss": "latest"
