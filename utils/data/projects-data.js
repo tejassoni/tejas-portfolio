@@ -11,7 +11,7 @@ export const projectsData = [
         tools: ['GoLang', 'MySql', 'Docker','Nginx'],
         role: 'Backend Developer',
         code: '',
-        demo: 'https://odoo-uat.zoodmall.com/docs/',
+        demo: '',
         image: crefin,
     },
     {
