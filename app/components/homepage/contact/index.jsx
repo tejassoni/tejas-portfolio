@@ -28,7 +28,7 @@ function ContactSection() {
                 className="bg-[#8b98a5] p-2 rounded-full hover:bg-[#16f2b3] hover:scale-110 transition-all duration-300 text-gray-800 cursor-pointer"
                 size={36}
               />
-              <span><a href="mailto:{personalData.email}?subject=GitHub Portfolio :  User">{personalData.email}</a></span>
+              <span><a href="mailto:tejas.tejas.soni3@gmail.com?subject=GitHub Portfolio :  User">{personalData.email}</a></span>
             </p>
             <p className="text-sm md:text-xl flex items-center gap-3">
               <IoMdCall
@@ -36,7 +36,7 @@ function ContactSection() {
                 size={36}
               />
               <span>
-                {personalData.phone}
+              <a href="http://wa.me/919662768548?text=Hi%20from%20GitHub%20Profile" target='_blank'>{personalData.phone}</a>
               </span>
             </p>
             <p className="text-sm md:text-xl flex items-center gap-3">
