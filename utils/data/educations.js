@@ -12,8 +12,8 @@ export const educations = [
     title: "Bachelor Degree",
     course: "Bachelor of Computer Application",
     duration: "2009 - 2011",
-    college: "Shrimad Rajchandra Institute Of Management And Computer Application",
-    university: "Uka Tarsadia University"
+    college: "M. B. Patel Science College",
+    university: "Sardar Patel University"
   },
   {
     id: 3,

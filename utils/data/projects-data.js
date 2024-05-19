@@ -27,7 +27,7 @@ export const projectsData = [
     {
         id: 3,
         name: 'Inkdotpot',
-        description: 'Inkdotpot may be a website specializing in customized printing services, offering a variety of personalized products such as: Customized Stationery, Custom Gifts, Personalized Prints, Business Branding Solutions and Wedding and Event Stationer',
+        description: 'Inkdotpot is specializing in customized printing services, offering a variety of personalized products such as: Customized Stationery, Custom Gifts, Personalized Prints, Business Branding Solutions and Wedding and Event Stationer',
         tools: ['NodeJS','PHP','CodeIgniter', 'Bootstrap','JWT','jQuery','JavaScript','BootStrap','MySql',"Payment Gateway"],
         code: '',
         role: 'Backend Developer',
@@ -93,7 +93,7 @@ export const projectsData = [
     }, {
         id: 10,
         name: 'Dial4Maid',
-        description: "Online bookappoinments Maids Are Expert Housekeeping, Home Cleaning Service, Deep Cleaning and more!.",
+        description: "Online book appoinments for Maids. Our Maids services are Expert Housekeeping, Home Cleaning Service, Deep Cleaning and more!.",
         tools: ['PHP', "Laravel","Bootstrap","JavaScript","jQuery","HTML","CSS","MySQL"],
         code: '',
         demo: 'https://www.dial4maid.ae/',
@@ -102,7 +102,7 @@ export const projectsData = [
     }, {
         id: 11,
         name: 'RoboNegotiator AutoMobile',
-        description: "RoboNegotiator is a patent pending, unbiased, API/plugin-based SaaS to automate price negotiation in online shopping websites. From your own product catalog, buyers can now make live offers on products and the software uses seller defined parameters/rules to find the best mutually agreed price for both parties.",
+        description: "RoboNegotiator is a API/plugin-based SaaS to automate price negotiation in online shopping websites. From your own product catalog, buyers can now make live offers on products and the software uses seller defined parameters/rules to find the best mutually agreed price for both parties.",
         tools: ['PHP', "Laravel","Bootstrap","JavaScript","jQuery","HTML","CSS","MySQL"],
         code: '',
         demo: 'https://yousellwesave.com/',

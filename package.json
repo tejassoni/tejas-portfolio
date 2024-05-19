@@ -1,7 +1,7 @@
 {
   "homepage": "https://tejassoni.github.io/tejas-portfolio",
-  "name": "developer-portfolio",
-  "description": "Portfolio of Abu Said",
+  "name": "tejas-portfolio",
+  "description": "Portfolio of Tejas Soni",
   "version": "0.1.0",
   "private": true,
   "scripts": {
