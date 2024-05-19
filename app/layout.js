@@ -9,7 +9,7 @@ import './css/globals.scss';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
-  title: 'Portfolio of Tejas Soni - Expert Software Engineer | Lead',
+  title: 'Tejas Soni - Senior Software Engineer | Lead',
   description: 'Tejas Dilipkumar Soni, a seasoned Senior Software Engineer with over 9 years of extensive experience in the field. I am deeply passionate about programming and thrive on the challenges it presents. Throughout my career, I have honed my skills in various technologies, specializing in PHP frameworks like Laravel and CodeIgniter, as well as GoLang for high-performance applications With a strong foundation in database management, I haWWive worked extensively with MySQL and MongoDB, ensuring efficient data storage and retrieval. JavaScript is at the heart of my development journey, and I leverage its power along with libraries like jQuery and frameworks like React to create dynamic and user-friendly web applications. I am available for any kind of job opportunity that suits my skills and interests.',
 };
 

@@ -33,7 +33,7 @@ function Navbar() {
             <Link className="block px-4 py-2 no-underline outline-none hover:no-underline" href="https://tejassoni.github.io/tejas-portfolio/#projects"><div className="text-sm text-white transition-colors duration-300 hover:text-pink-600">PROJECTS</div></Link>
           </li>
           <li>
-            <Link className="block px-4 py-2 no-underline outline-none hover:no-underline" href="https://tejassoni.github.io/tejas-portfolio/#projects"><div className="text-sm text-white transition-colors duration-300 hover:text-pink-600">Contact</div></Link>
+            <Link className="block px-4 py-2 no-underline outline-none hover:no-underline" href="https://tejassoni.github.io/tejas-portfolio/#contact"><div className="text-sm text-white transition-colors duration-300 hover:text-pink-600">CONTACT</div></Link>
           </li>
         </ul>
       </div>
