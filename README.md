@@ -9,7 +9,7 @@
 
 ![](./public/image/screen1.png)
 
-## View live preview [here](https://google.com.
+## View live preview [here](https://tejassoni.github.io/tejas-portfolio/).
 
 ---
 
