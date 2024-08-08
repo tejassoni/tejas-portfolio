@@ -1,7 +1,7 @@
 
-# Developer Portfolio
+# Tejas Portfolio
 
-### Are you struggling to create a professional portfolio website? Look no further! You can use the Developer Portfolio template and create your very own personalized portfolio today! My website is designed to be user-friendly and easily customizable, making it perfect for both developers and freelancers.
+### Are you struggling to create a professional portfolio website? Look no further! You can use the Tejas Portfolio template and create your very own personalized portfolio today! My website is designed to be user-friendly and easily customizable, making it perfect for both developers and freelancers.
 
 ---
 
@@ -60,9 +60,9 @@ git --version
 To Fork the repo click on the fork button at the top right of the page. Once the repo is forked open your terminal and perform the following commands
 
 ```
-git clone https://github.com/<YOUR GITHUB USERNAME>/developer-portfolio.git
+git clone https://github.com/<YOUR GITHUB USERNAME>/tejas-portfolio.git
 
-cd developer-portfolio
+cd tejas-portfolio
 ```
 
 ### Install packages from the root directory
@@ -104,20 +104,7 @@ Eg:
 ```javascript
 export const personalData = {
   name: "Tejas Soni",
-  profile: "/profile.png",
   designation: "Team Leader | Senior Software Engineer",
-  description: "My name is Tejas Soni....",
-  email: 'tejas.tejas.soni3@gmail.com',
-  phone: '+91 9662768548',
-  address: 'Shiv Tenament , Vadodara, Gujarat - 390021 ',
-  github: 'https://github.com/tejassoni',
-  facebook: 'https://www.facebook.com/soni.teju/',
-  linkedIn: 'https://www.linkedin.com/in/soni-tejas/',
-  twitter: 'https://twitter.com/sonitejas',
-  stackOverflow: 'https://stackoverflow.com/users/3523478/tejas-soni',
-  leetcode: "https://leetcode.com/u/tejassoni/",
-  devUsername: "tejassoni",
-  resume: "https://drive.google.com/file/d/1zJ3Vezh734hVUHZ8KL89r2vMnBMnczc7/view?usp=sharing"
 };
 ```
 
