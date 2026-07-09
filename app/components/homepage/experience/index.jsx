@@ -2,6 +2,7 @@
 
 import { experiences } from "@/utils/data/experience";
 import Image from "next/image";
+import Link from 'next/link';
 import { BsPersonWorkspace } from "react-icons/bs";
 import AnimationLottie from "../../helper/animation-lottie";
 import GlowCard from "../../helper/glow-card";
@@ -47,7 +48,8 @@ function Experience() {
                         alt="Hero"
                         width={1080}
                         height={200}
-                        className="absolute bottom-0 opacity-80"
+                        className="absolute bottom-0 opacity-80 pointer-events-none"
+                        aria-hidden="true"
                       />
                       <div className="flex justify-center">
                         <p className="text-xs sm:text-sm text-[#16f2b3]">
@@ -62,9 +64,15 @@ function Experience() {
                           <p className="text-base sm:text-xl mb-2 font-medium uppercase">
                             {experience.title}
                           </p>
-                          <p className="text-sm sm:text-base">
-                            {experience.company}
-                          </p>
+                          {experience.link ? (
+                            <Link href={experience.link} target="_blank" rel="noopener noreferrer" className="text-sm sm:text-base text-[#d3d8e8] hover:text-violet-400">
+                              {experience.company}
+                            </Link>
+                          ) : (
+                            <p className="text-sm sm:text-base">
+                              {experience.company}
+                            </p>
+                          )}
                         </div>
                       </div>
                     </div>
